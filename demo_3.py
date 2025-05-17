@@ -77,3 +77,27 @@ for jersey_number in range(1, 21):
   if jersey_number in nandhi_jersey_numbers:
     continue
   print(jersey_number)
+
+# home work - 1
+# create a list of members
+# check who's name starts with K and M using if_elif_else
+# store them in separate lists one for K and one for M
+# and loop through and print it using for loop
+
+# home work -2
+# create a simple menu display
+# ask a user for the followings
+
+# Welcome to our program
+# 1.About
+# 2.Work
+# 3.Exit
+
+# first print the options above
+# next get input from the user
+# the user needs to type from the above options
+# use while for input validation
+# if user types exit then while should break
+# if user types about then it shows some messages
+# if user types work then it shows some messages
+# if user types some unwanted text then show please enter a valid option
